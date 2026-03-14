@@ -1,0 +1,7 @@
+#Compiled File
+bin/
+*.class
+
+#Eclipse Setting
+.settings/
+
